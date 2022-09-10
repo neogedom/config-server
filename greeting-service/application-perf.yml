@@ -1,6 +1,6 @@
 spring:
   application:
-    name: neogedom-config-server
+    name: greeting-service
 management:
   endpoints:
     web:
