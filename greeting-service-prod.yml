@@ -9,6 +9,6 @@ management:
         - '*'
 
 greeting-service: 
-  greeting: "Ciao"
+  greeting: "Pronto"
   default-value: "Mondo"
 
